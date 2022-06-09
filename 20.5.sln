@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20.5(3)", "20.5(3)\20.5(3).
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20.5(4)", "20.5(4)\20.5(4).vcxproj", "{232E44B7-3B6E-4741-ACDA-8C2BAC5C6B70}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20.5(1)", "20.5(1)\20.5(1).vcxproj", "{B2321396-5B71-4887-A10C-C3760080538B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
